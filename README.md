@@ -28,7 +28,7 @@ python analysis_mia.py --dataset {dataset name} --arch {model architecture} --no
 ```
 
 ## References
-We have used the code from the following repositories:
+
 [RUM] (https://github.com/kairanzhao/RUM)
 
 [SalUn] (https://github.com/OPTML-Group/Unlearn-Saliency)
