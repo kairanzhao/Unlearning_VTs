@@ -1,0 +1,12 @@
+__pycache__/
+# **/__pycache__/
+
+wandb/
+assets/
+checkpoints/
+plots/
+
+.idea/
+*.pyc
+*.py[cod]
+*.png
